@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InventoryItemSeed>0</InventoryItemSeed>
+  <Items>
+    <InventoryItem>
+      <Id>1</Id>
+      <Name>Blackberry Q10</Name>
+      <Category>mobile phone</Category>
+    </InventoryItem>
+    <InventoryItem>
+      <Id>2</Id>
+      <Name>Blackberry Q10</Name>
+      <Category>mobile phone</Category>
+    </InventoryItem>
+    <InventoryItem>
+      <Id>3</Id>
+      <Name>Blackberry Q10</Name>
+      <Category>mobile phone</Category>
+    </InventoryItem>
+    <InventoryItem>
+      <Id>4</Id>
+      <Name>Blackberry Q10</Name>
+      <Category>mobile phone</Category>
+    </InventoryItem>
+    <InventoryItem>
+      <Id>5</Id>
+      <Name>Blackberry Q10</Name>
+      <Category>mobile phone</Category>
+    </InventoryItem>
+  </Items>
+</Inventory>
